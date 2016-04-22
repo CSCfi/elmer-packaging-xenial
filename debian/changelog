@@ -1,5 +1,6 @@
-elmerfem-csc (8.1-0ppa0) trusty; urgency=low
+elmerfem-csc (8.2-0ppa0) trusty; urgency=low
   
+  * increase version to 8.2
   * increase version to 8.1
   * fixed libblas3gf to libblas3 dependency for Xenial
   * New version 8.0
