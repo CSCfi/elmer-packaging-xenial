@@ -7,6 +7,6 @@ Homepage: http://www.elmerfem.org
 
 Package: elmerfem-csc
 Architecture: any
-Depends: libmumps-4.10.0, libhypre-2.8.0b, liboce-foundation8, liboce-modeling8, libvtk5.10, libqwt6, openmpi-bin, libqt4-opengl, libvtk5.10-qt4, libblas3
+Depends: libmumps-4.10.0, libhypre-2.8.0b, liboce-foundation8 | liboce-foundation10, liboce-modeling8 | liboce-modeling10, libvtk5.10, libqwt6 | libqwt6abi1, openmpi-bin, libqt4-opengl, libvtk5.10-qt4, libblas3
 Description: Elmer finite element modeling monolithic suite
  Contains ElmerGUI
