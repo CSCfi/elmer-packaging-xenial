@@ -14,3 +14,5 @@ SET(WITH_ElmerIce TRUE CACHE BOOL "")
 #SET(CMAKE_Fortran_COMPILER /usr/bin/gfortran-4.8 CACHE FILE "")
 
 SET(ELMER_SOLVER_HOME "/usr/share/elmersolver" CACHE PATH "")
+
+SET(WITH_LUA TRUE CACHE BOOL "")
